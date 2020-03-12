@@ -1,3 +1,9 @@
+Notes:
+========
+
+Removed videos because of github sizing limitations.
+Location for converting videos to images in getFrames are static.
+
 Welcome to the comma.ai Programming Challenge!
 ======
 
